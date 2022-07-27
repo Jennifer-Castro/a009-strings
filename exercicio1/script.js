@@ -14,4 +14,4 @@ const comidafavorita2 = prompt("Qual sua 2ª comida favorita?")
 const comidafavorita3 = prompt("Qual sua 3ª comida favorita?")
 
 
-console.log(`Estas são as comidas favoritas de ${nomeDoUsuario}: \n ${comidafavorita1}\n ${comidafavorita2}\n ${comidafavorita3}`)
+console.log(`Estas são as comidas favoritas de ${nomeDoUsuario}:\n${comidafavorita1}\n${comidafavorita2}\n${comidafavorita3}`)
